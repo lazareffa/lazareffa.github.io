@@ -5,7 +5,7 @@
                 <table cellpadding="0" cellspacing="0" style="line-height: normal;">
                     <tbody>
                         <tr>
-                            <td align="center" style="margin: 0px;"><a href="https://steefand.com/" style="color: rgb(17, 85, 204);" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/Steef.png" width="160" valign="top" alt="photo-logo" style="border-radius: 50%;"></a></td>
+                            <td align="center" style="margin: 0px;"><a href="https://steefand.com/" style="color: rgb(17, 85, 204);" target="_blank"><img src="https://res.cloudinary.com/dsyfcgufm/image/upload/v1674688255/image002_coea9a.png" width="160" valign="top" alt="photo-logo" style="border-radius: 50%;"></a></td>
                         </tr>
                         <tr>
                             <td style="margin: 0.1px; padding: 10px 0px 0px;">
