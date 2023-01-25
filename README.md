@@ -1,21 +1,21 @@
-<table cellpadding="0" cellspacing="0">
+<table cellpadding="0" cellspacing="0" style="color: rgb(34, 34, 34); text-align: right;">
     <tbody>
         <tr>
-            <td valign="top" width="80">
-                <table cellpadding="0" cellspacing="0">
+            <td style="margin: 0.1px; padding: 0px 20px 0px 0px;" valign="top" width="80">
+                <table cellpadding="0" cellspacing="0" style="line-height: normal;">
                     <tbody>
                         <tr>
-                            <td align="center"><a href="https://steefand.com/" target="_blank"><img src="https://ci4.googleusercontent.com/proxy/xD7b0Y5gvwGZz9miduXIP9YC-n_ba11izFNysWkLU2rYWlRQ8pl9bXS9ekLOt3lqQkykdYNIwPGkj8OtpVPVE3Qk-Yj3-cwVCw=s0-d-e1-ft#https://takamihomes.com/wp-content/for_gmail/Steef.png" width="160" valign="top" alt="photo-logo"></a></td>
+                            <td align="center" style="margin: 0px;"><a href="https://steefand.com/" style="color: rgb(17, 85, 204);" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/Steef.png" width="160" valign="top" alt="photo-logo" style="border-radius: 50%;"></a></td>
                         </tr>
                         <tr>
-                            <td>
+                            <td style="margin: 0.1px; padding: 10px 0px 0px;">
                                 <table align="center" cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                            <td><br></td>
-                                            <td><br></td>
-                                            <td><br></td>
-                                            <td><br></td>
+                                            <td style="margin: 0.1px; padding: 0px 5px 0px 0px;"><br></td>
+                                            <td style="margin: 0.1px; padding: 0px 5px 0px 0px;"><br></td>
+                                            <td style="margin: 0.1px; padding: 0px 5px 0px 0px;"><br></td>
+                                            <td style="margin: 0.1px;"><br></td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -24,27 +24,56 @@
                     </tbody>
                 </table>
             </td>
-            <td valign="top"><br>
-                <table cellpadding="0" cellspacing="0">
+            <td style="margin: 0.1px; font-family: Arial; min-width: 520px;" valign="top"><br>
+                <table cellpadding="0" cellspacing="0" style="line-height: normal;">
                     <tbody>
                         <tr>
-                            <td>Stepan Andrezen</td>
+                            <td style='margin: 0.3px; font-family: "Myriad Pro"; font-weight: 900; font-size: 16px;'><span style="color: rgb(77, 77, 79); font-size: 18px;">Stepan Andrezen</span></td>
                         </tr>
                         <tr>
-                            <td>Founder, Architect</td>
+                            <td style='margin: 0.1px; font-family: "Myriad Pro"; font-size: 13px; padding: 5px 0px 0px;'><span style="color: rgb(137, 110, 43); font-weight: 700; font-size: 15px; line-height: 15px;">Founder, Architect</span></td>
                         </tr>
                         <tr>
-                            <td>+1 224 366 9752<br>+372 617 0327</td>
+                            <td style='margin: 0.1px; font-family: "Myriad Pro"; font-weight: 600; font-size: 13px; padding: 5px 0px 0px; line-height: 15px;'><span style="color: rgb(137, 110, 43);">+1 224 366 9752<br>+372 617 0327</span></td>
                         </tr>
                         <tr>
-                            <td><a href="mailto:stepanste@gmail.com" target="_blank">stepanste@gmail.com</a></td>
+                            <td style='margin: 0.1px; font-family: "Myriad Pro"; font-size: 13px; padding: 2px 0px;'><span style="color: rgb(143, 145, 148); font-size: 14px; line-height: 15px;"><a href="mailto:stepanste@gmail.com" style="color: rgb(143, 145, 148); font-weight: 900;" target="_blank">stepanste@gmail.com</a></span></td>
                         </tr>
                         <tr height="15px">
-                            <td height="15"><a href="https://steefand.com/" target="_blank">Click Here to View Our Project Portfolio</a><br></td>
+                            <td height="15" style='margin: 0px; font-family: "Myriad Pro"; padding: 0px;'><span style="color: black; font-size: 13px; line-height: 25px;"><a href="https://steefand.com/" style="color: rgb(137, 110, 43); font-weight: 900; padding: 5px 0px 0px; margin-bottom: 30px;" target="_blank">Click Here to View Our Project Portfolio</a><br style="font-size: 5px;"></span></td>
                         </tr>
                         <tr height="10pt">
-                            <td><a href="https://steefand.com/" target="_blank"><img src="https://ci5.googleusercontent.com/proxy/z4oU0OKJjb_hjsAgk0s8vTuQHDMCQe9UnZGp2nHtJ-NAA88FWtbUS-oOo5XIq1pmCNyQV4CDfQfzokQlZqQrHOp7VlwDCcCgPwEOkSo=s0-d-e1-ft#https://takamihomes.com/wp-content/for_gmail/SA%20logo.png" width="24" alt="facebook" valign="top"></a> <a href="https://www.linkedin.com/in/stepanandrezen" target="_blank"><img src="https://ci3.googleusercontent.com/proxy/lAG_50mnx14MDft4-kdpgh70QV7iSA272xju6PubD35yc3-wdKvgeNCAHTR-GWTq0EQk7qwYtwdG8E-ipL1aDsn4k5CEhAFn5f4=s0-d-e1-ft#https://takamihomes.com/wp-content/for_gmail/linked.png" width="24" alt="facebook" valign="top"></a><a href="https://www.facebook.com/sandrezen" target="_blank"><img src="https://ci6.googleusercontent.com/proxy/XdLcmIbwZRg9CU7WUYRrBU19dhwDdg2x4zQOdO38EaJLqQ8ULs3OHkL29XrNMVSA0zhojSDwBXaJ_raOMwlAWlHJQ4ukgAk9=s0-d-e1-ft#https://takamihomes.com/wp-content/for_gmail/face.png" width="24" alt="facebook" valign="top"></a><a href="https://www.behance.net/steefand" target="_blank" valign="top"><img src="https://ci4.googleusercontent.com/proxy/3y_kIs-CcZ9N3Sn-WspkyJOtMEjg7sym9dmdFCIigVmF3rwRK_MAyNbcm5Z2eZW-p5O8ASIMziqn_aNSW-0ewvmzmtx04Q=s0-d-e1-ft#https://takamihomes.com/wp-content/for_gmail/be.png" width="24" alt="yelp" valign="top"></a><a href="https://www.instagram.com/steefand/" target="_blank"><img src="https://ci6.googleusercontent.com/proxy/zTfKSqfxmBdarnRg1aFYS6OavXj2tTWsvL7f4gcRQvmiWZH1KnyWrkIx_SULZ37wvCTayljRb-epe8k1rtveAfeWZhr6Y-Bi=s0-d-e1-ft#https://takamihomes.com/wp-content/for_gmail/inst.png" width="24" alt="facebook" valign="top"></a><br><br></td>
+                            <td style="margin: 0px; color: black; font-size: 13px; line-height: 15px;"><a href="https://steefand.com/" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/SA%20logo.png" width="24" alt="facebook" valign="top"></a> <a href="https://www.linkedin.com/in/stepanandrezen" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/linked.png" width="24" alt="facebook" valign="top"></a><a href="https://www.facebook.com/sandrezen" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/face.png" width="24" alt="facebook" valign="top"></a><a href="https://www.behance.net/steefand" style="color: rgb(17, 85, 204);" target="_blank" valign="top"><img src="https://takamihomes.com/wp-content/for_gmail/be.png" width="24" alt="yelp" valign="top"></a><a href="https://www.instagram.com/steefand/" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/inst.png" width="24" alt="facebook" valign="top"></a><br><br></td>
                         </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="color: rgb(34, 34, 34); text-align: right;">
+    <tbody>
+        <tr>
+            <td style="margin: 0.1px; padding: 0px 20px 0px 0px;" valign="top" width="300"><br></td>
+            <td style="margin: 0.1px; font-family: Arial; min-width: 520px;" valign="top">
+                <table cellpadding="0" cellspacing="0" style="line-height: normal;">
+                    <tbody>
+                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px;"><br></td>
+                        </tr>
+                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px; padding: 5px 0px 0px;"><br></td>
+                        </tr>
+                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px; padding: 5px 0px 0px;"><br></td>
+                        </tr>
+                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px; padding: 5px 0px;"><br></td>
+                        </tr>
+                        <tr height="15px" style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+                            <td height="15" style="margin: 0.1px; font-family: Arial; padding: 0px;"><br></td>
+                        </tr>
+                        <tr height="10pt" style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></tr>
                     </tbody>
                 </table>
             </td>
