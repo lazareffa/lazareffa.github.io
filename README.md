@@ -1,82 +1,97 @@
-<table cellpadding="0" cellspacing="0" style="color: rgb(34, 34, 34); text-align: right;">
+<table style="border: none; margin-right: calc(30%); width: 70%;">
     <tbody>
         <tr>
-            <td style="margin: 0.1px; padding: 0px 20px 0px 0px;" valign="top" width="80">
-                <table cellpadding="0" cellspacing="0" style="line-height: normal;">
-                    <tbody>
-                        <tr>
-                            <td align="center" style="margin: 0px;"><a href="https://steefand.com/" style="color: rgb(17, 85, 204);" target="_blank"><img src="https://res.cloudinary.com/dsyfcgufm/image/upload/v1674688255/image002_coea9a.png" width="160" valign="top" alt="photo-logo" style="border-radius: 50%;"></a></td>
-                        </tr>
-                        <tr>
-                            <td style="margin: 0.1px; padding: 10px 0px 0px;">
-                                <table align="center" cellpadding="0" cellspacing="0">
-                                    <tbody>
-                                        <tr>
-                                            <td style="margin: 0.1px; padding: 0px 5px 0px 0px;"><br></td>
-                                            <td style="margin: 0.1px; padding: 0px 5px 0px 0px;"><br></td>
-                                            <td style="margin: 0.1px; padding: 0px 5px 0px 0px;"><br></td>
-                                            <td style="margin: 0.1px;"><br></td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
+            <td style="width: 95.2254%; padding: 0cm 15pt 0cm 0cm; vertical-align: top;">
+                <div align="right" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <table style="border: none;">
+                        <tbody>
+                            <tr>
+                                <td style="padding: 0cm; width: 89.6551%;">
+                                    <table border="0" cellpadding="0" cellspacing="0" style='font-family: "Times New Roman"; margin-right: calc(0%); width: 100%;'>
+                                        <tbody>
+                                            <tr>
+                                                <td style="width: 50.9283%; padding: 0cm 15pt 0cm 0cm; vertical-align: top;" valign="top">
+                                                    <div align="right">
+                                                        <table border="0" cellpadding="0" cellspacing="0">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="padding: 0cm; width: 45.358%;">
+                                                                        <p style="margin: 0cm;line-height: normal;font-size:15px;font-family: Calibri, sans-serif;text-align: center;"><a href="https://steefand.com/" style="color: blue;text-decoration: underline;" target="_blank"><img border="0" width="160" height="160" src="https://res.cloudinary.com/dsyfcgufm/image/upload/v1674688255/image002_coea9a.png" alt="photo-logo"></a></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding: 7.5pt 0cm 0cm; width: 45.358%;">
+                                                                        <div align="center"><br></div>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                        <p><br></p>
+                                                    </div>
+                                                </td>
+                                                <td style="padding: 0cm; vertical-align: top; width: 38.4616%;" valign="top">
+                                                    <p style="margin: 0.1pt;line-height: normal;font-size:15px;font-family: Calibri, sans-serif;text-align: right;"><span style="font-size:16px;font-family: Arial, sans-serif;color: rgb(34, 34, 34);">&nbsp;</span></p>
+                                                    <div align="right">
+                                                        <table border="0" cellpadding="0" cellspacing="0" style="margin-right: calc(0%); width: 100%;">
+                                                            <tbody>
+                                                                <tr>
+                                                                    <td style="padding: 0cm; width: 37.931%;">
+                                                                        <p style="margin: 0.25pt;line-height: normal;font-size:15px;font-family: Calibri, sans-serif;"><strong><span style='font-size:18px;font-family: "Myriad Pro", sans-serif;color: rgb(77, 77, 79);'>Maria Lazareva</span></strong></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding: 3.75pt 0cm 0cm; width: 37.931%;">
+                                                                        <p style="margin: 0.1pt;line-height: normal;font-size:15px;font-family: Calibri, sans-serif;"><strong><span style='font-size:15px;font-family: "Myriad Pro", sans-serif;color: rgb(137, 110, 43);'>&nbsp;Architect</span></strong></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding: 3.75pt 0cm 0cm; width: 37.931%;">
+                                                                        <p style="margin: 0.1pt;line-height: 11.25pt;font-size:15px;font-family: Calibri, sans-serif;"><strong><span style='font-size:13px;font-family: "Myriad Pro", sans-serif;color: rgb(137, 110, 43);'>+90 5368348185</span></strong></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding: 1.5pt 0cm; width: 37.931%;">
+                                                                        <p style="margin: 0.1pt;line-height: normal;font-size:15px;font-family: Calibri, sans-serif;"><span style='font-size:14px;font-family: "Myriad Pro", sans-serif;color: rgb(143, 145, 148);'><a href="mailto:mlazareffa@gmail.com" style="color: blue;text-decoration: underline;" target="_blank"><strong><span style="color: rgb(143, 145, 148);">mlazareffa@gmail.com</span></strong></a></span></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding: 0cm; height: 7.5pt; width: 37.931%;">
+                                                                        <p style="margin: 0cm;line-height: normal;font-size:15px;font-family: Calibri, sans-serif;"><span style='font-size:13px;font-family: "Myriad Pro", sans-serif;color: black;'><a href="https://steefand.com/" style="color: blue;text-decoration: underline;" target="_blank"><strong><span style="color: rgb(137, 110, 43);">***** Here ** View Our Project Portfolio</span></strong></a></span></p>
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td style="padding: 0cm; width: 37.931%;">
+                                                                        <p style="margin: 0cm 0cm 12pt;line-height: 11.25pt;font-size:15px;font-family: Calibri, sans-serif;"><a href="https://steefand.com/" style="color: blue;text-decoration: underline;" target="_blank"><strong><img border="0" width="24" height="24" src="2_files/image004.png" alt="facebook"></strong></a><span style='font-size:13px;font-family: "Times New Roman", serif;color: black;'>&nbsp;</span><a href="https://www.linkedin.com/in/stepanandrezen" style="color: blue;text-decoration: underline;" target="_blank"><strong><img border="0" width="24" height="24" src="2_files/image006.png" alt="facebook"></strong></a><a href="https://www.facebook.com/sandrezen" style="color: blue;text-decoration: underline;" target="_blank"><strong><img border="0" width="24" height="24" src="2_files/image008.png" alt="facebook"></strong></a><a href="https://www.behance.net/steefand" style="color: blue;text-decoration: underline;" target="_blank"><img border="0" width="24" height="24" src="2_files/image010.png" alt="yelp"></a><a href="https://www.instagram.com/steefand/" style="color: blue;text-decoration: underline;" target="_blank"><strong><img border="0" width="24" height="24" src="2_files/image012.png" alt="facebook"></strong></a></p>
+                                                                    </td>
+                                                                </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </td>
-            <td style="margin: 0.1px; font-family: Arial; min-width: 520px;" valign="top"><br>
-                <table cellpadding="0" cellspacing="0" style="line-height: normal;">
-                    <tbody>
-                        <tr>
-                            <td style='margin: 0.3px; font-family: "Myriad Pro"; font-weight: 900; font-size: 16px;'><span style="color: rgb(77, 77, 79); font-size: 18px;">Stepan Andrezen</span></td>
-                        </tr>
-                        <tr>
-                            <td style='margin: 0.1px; font-family: "Myriad Pro"; font-size: 13px; padding: 5px 0px 0px;'><span style="color: rgb(137, 110, 43); font-weight: 700; font-size: 15px; line-height: 15px;">Founder, Architect</span></td>
-                        </tr>
-                        <tr>
-                            <td style='margin: 0.1px; font-family: "Myriad Pro"; font-weight: 600; font-size: 13px; padding: 5px 0px 0px; line-height: 15px;'><span style="color: rgb(137, 110, 43);">+1 224 366 9752<br>+372 617 0327</span></td>
-                        </tr>
-                        <tr>
-                            <td style='margin: 0.1px; font-family: "Myriad Pro"; font-size: 13px; padding: 2px 0px;'><span style="color: rgb(143, 145, 148); font-size: 14px; line-height: 15px;"><a href="mailto:stepanste@gmail.com" style="color: rgb(143, 145, 148); font-weight: 900;" target="_blank">stepanste@gmail.com</a></span></td>
-                        </tr>
-                        <tr height="15px">
-                            <td height="15" style='margin: 0px; font-family: "Myriad Pro"; padding: 0px;'><span style="color: black; font-size: 13px; line-height: 25px;"><a href="https://steefand.com/" style="color: rgb(137, 110, 43); font-weight: 900; padding: 5px 0px 0px; margin-bottom: 30px;" target="_blank">Click Here to View Our Project Portfolio</a><br style="font-size: 5px;"></span></td>
-                        </tr>
-                        <tr height="10pt">
-                            <td style="margin: 0px; color: black; font-size: 13px; line-height: 15px;"><a href="https://steefand.com/" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/SA%20logo.png" width="24" alt="facebook" valign="top"></a> <a href="https://www.linkedin.com/in/stepanandrezen" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/linked.png" width="24" alt="facebook" valign="top"></a><a href="https://www.facebook.com/sandrezen" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://drive.google.com/file/d/1FJgdi4_-e38d5RPsqPteRtBm_EHaqBiO/view?usp=share_link" width="24" alt="facebook" valign="top"></a><a href="https://www.behance.net/steefand" style="color: rgb(17, 85, 204);" target="_blank" valign="top"><img src="https://takamihomes.com/wp-content/for_gmail/be.png" width="24" alt="yelp" valign="top"></a><a href="https://www.instagram.com/steefand/" style="color: rgb(66, 66, 66); font-weight: 900;" target="_blank"><img src="https://takamihomes.com/wp-content/for_gmail/inst.png" width="24" alt="facebook" valign="top"></a><br><br></td>
-                        </tr>
-                    </tbody>
-                </table>
+            <td style="padding: 0cm; vertical-align: top; width: 4.5093%;">
+                <div align="right" style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>
+                    <p><br></p>
+                    <table style="border: none; margin-left: calc(-90%); width: 190%;">
+                        <tbody>
+                            <tr>
+                                <td style="padding: 0cm; width: 4.244%;">
+                                    <p style='margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;margin-left:0cm;line-height:11.25pt;font-size:15px;font-family:"Calibri",sans-serif;'><br></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </td>
         </tr>
     </tbody>
 </table>
-<table cellpadding="0" cellspacing="0" style="color: rgb(34, 34, 34); text-align: right;">
-    <tbody>
-        <tr>
-            <td style="margin: 0.1px; padding: 0px 20px 0px 0px;" valign="top" width="300"><br></td>
-            <td style="margin: 0.1px; font-family: Arial; min-width: 520px;" valign="top">
-                <table cellpadding="0" cellspacing="0" style="line-height: normal;">
-                    <tbody>
-                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px;"><br></td>
-                        </tr>
-                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px; padding: 5px 0px 0px;"><br></td>
-                        </tr>
-                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px; padding: 5px 0px 0px;"><br></td>
-                        </tr>
-                        <tr style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-                            <td style="margin: 0.1px; font-family: Arial; font-size: 13px; padding: 5px 0px;"><br></td>
-                        </tr>
-                        <tr height="15px" style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
-                            <td height="15" style="margin: 0.1px; font-family: Arial; padding: 0px;"><br></td>
-                        </tr>
-                        <tr height="10pt" style="color: rgb(34, 34, 34); font-family: Arial; font-size: small; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: right; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></tr>
-                    </tbody>
-                </table>
-            </td>
-        </tr>
-    </tbody>
-</table>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:8.0pt;margin-left:0cm;line-height:107%;font-size:15px;font-family:"Calibri",sans-serif;'>&nbsp;</p>
